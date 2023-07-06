@@ -1,8 +1,8 @@
+*.lammpstrj filter=lfs diff=lfs merge=lfs -text
 *.lammps filter=lfs diff=lfs merge=lfs -text
 *.Identifier filter=lfs diff=lfs merge=lfs -text
 *.10000000 filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
-*.lammpstrj filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text

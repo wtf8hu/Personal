@@ -1,5 +1,3 @@
-hello! 
-
-whats up? 
-
-6/10/23 - this is an updated note over the weekend
+version https://git-lfs.github.com/spec/v1
+oid sha256:955cce2e8a815030f78e45046594e6516852f48a78dccd6961b71e7723510b92
+size 71

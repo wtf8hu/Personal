@@ -1,4 +1,3 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://rivanna-portal.hpc.virginia.edu/pun/sys/dashboard/files/fs//home/wtf8hu/lammps/disertationData/P8500
-HostUrl=https://rivanna-portal.hpc.virginia.edu/pun/sys/dashboard/files/fs//home/wtf8hu/lammps/disertationData/P8500/input.lammps?download=1688569327704
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2e27229f8ec5c982154b6212535cdbe2db8a98b066a1c0acc4abb65d0d44d6b
+size 302
